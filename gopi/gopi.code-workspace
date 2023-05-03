@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/netflixImages-main/netflixImages-main/images/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "images"
+	}
+}

@@ -1,0 +1,27 @@
+
+
+.head{
+    color:red;
+    font-size: 10px;
+}
+.nandu{
+    font-size: 2rem;
+}
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@300;600;700&family=Dancing+Script:wght@700&display=swap');
+>hello{
+    font-family: 'Dancing Script';
+
+}
+.the{
+    /* font-family: 'Dancing+Script';
+    border-bottom: 30rem;
+    font-size: 4rem;
+    padding-top: 20px;
+    background-color: blue;
+    border-radius: 1.5rem;
+    border-color: cyan;
+    margin-left: 5rem ; */
+    padding-right: 10%;
+    font-size: 4rem;
+
+}

@@ -1,0 +1,41 @@
+*{
+    background-color: black;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    border-radius: 3rem;
+    animation-name: circle;
+    animation-duration: 5s;
+    transition: transform 420ms;
+    position: relative;
+}
+@keyframes circle{
+    0%{
+        background-color: blue;
+        left: 0px;
+        top: 0px;
+    }
+    25%{
+        background-color: blueviolet;
+        left: 100px;
+        top: 0;
+    }
+    50%{
+        background-color: cyan;
+        left: 100;
+        top: 100;
+    }
+    75%{
+        background-color: darkgrey;
+        left: 0;
+        top: 100;
+
+    }
+    100%{
+        background-color: chartreuse;
+        left: 0px;
+        top: 0px;
+    }
+}
